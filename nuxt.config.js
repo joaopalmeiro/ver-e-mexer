@@ -2,7 +2,9 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: "static",
 
-  // Global page headers: https://go.nuxtjs.dev/config-head
+  // Global page headers:
+  // - https://go.nuxtjs.dev/config-head
+  // - https://nuxtjs.org/docs/features/meta-tags-seo/#external-resources
   head: {
     title: "dvmps",
     htmlAttrs: {
